@@ -181,5 +181,7 @@ dataset/*
 *.DS_Store
 
 # trained models
-models/*
-!models/README.md
+models_coco/*
+!models_coco/README.md
+models_icub/*
+!models_icub/README.md
