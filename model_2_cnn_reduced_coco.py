@@ -108,10 +108,10 @@ label_per_obj_train_top10_filtered_logits = np.array([LABEL_LOGITS_MAPPING[l] fo
 label_per_obj_val_top10_logits = np.array([LABEL_LOGITS_MAPPING[l] for l in label_per_obj_val_top10], dtype=np.int32)
 
 # %%
-label_per_obj_train_top10_filtered[:20]
+# label_per_obj_train_top10_filtered[:20]
 
 # %%
-label_per_obj_train_top10_filtered_logits[:20]
+# label_per_obj_train_top10_filtered_logits[:20]
 
 # %% [markdown]
 # ---

@@ -185,3 +185,7 @@ models_coco/*
 !models_coco/README.md
 models_icub/*
 !models_icub/README.md
+
+# the report itself
+report*
+*.docx
